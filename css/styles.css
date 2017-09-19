@@ -1,0 +1,11 @@
+#formOne {
+  border-radius: 25px;
+  border: 2px solid orange;
+  padding: 20px;
+  width: 80%;
+  margin-left: 110px;
+}
+
+.jumbotron {
+  text-align: center;
+}
